@@ -12,3 +12,6 @@ ent-WeaponGunLaserCarbineAutomatic = лазерный карабин ИК-60
 
 ent-WeaponIONRifle = ионная пушка
     .desc = Продвинутое оружие, поставляемое отделам Службы Безопасности для борьбы с организованной преступностью.
+
+energy-gun-lethal = летал
+energy-gun-disable = обезоруживание
