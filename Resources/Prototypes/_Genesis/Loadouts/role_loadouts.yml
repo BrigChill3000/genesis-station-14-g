@@ -314,10 +314,10 @@
   id: JobRoboticistGenesis
   groups:
   - GroupTankHarness
-  - RoboticistHead
+  - RoboticistGenesisHead
   - ScientistNeck
-  - RoboticistJumpsuit
-  - RoboticistOuterClothing
+  - RoboticistGenesisJumpsuit
+  - RoboticistGenesisOuterClothing
   - ScientistBackpack
   - ScientistShoes
   - Survival
