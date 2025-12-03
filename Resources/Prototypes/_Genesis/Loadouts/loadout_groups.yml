@@ -494,14 +494,14 @@
 
 # Science
 - type: loadoutGroup
-  id: RoboticistJumpsuit
+  id: RoboticistGenesisJumpsuit
   name: loadout-group-jumpsuit
   loadouts:
   - RoboticistJumpsuit
   - RoboticistJumpskirt
 
 - type: loadoutGroup
-  id: RoboticistOuterClothing
+  id: RoboticistGenesisOuterClothing
   name: loadout-group-outerclothing
   minLimit: 0
   loadouts:
@@ -509,7 +509,7 @@
   - RoboticistWintercoat
 
 - type: loadoutGroup
-  id: RoboticistHead
+  id: RoboticistGenesisHead
   name: loadout-group-head
   minLimit: 0
   loadouts:
