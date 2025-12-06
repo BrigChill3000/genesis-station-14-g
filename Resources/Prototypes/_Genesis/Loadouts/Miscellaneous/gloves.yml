@@ -11,11 +11,6 @@
     gloves: ClothingHandsMercGlovesCombat
 
 - type: loadout
-  id: CombatGloves
-  equipment:
-    gloves: ClothingHandsGlovesCombat
-
-- type: loadout
   id: LeatherGloves
   equipment:
     gloves: ClothingHandsGlovesLeather
