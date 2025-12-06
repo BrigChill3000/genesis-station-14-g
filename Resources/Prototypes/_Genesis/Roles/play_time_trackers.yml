@@ -14,9 +14,6 @@
   id: JobHeadOfStaffCentCom
 
 - type: playTimeTracker
-  id: JobBrigmedic
-
-- type: playTimeTracker
   id: JobMagistrat
 
 - type: playTimeTracker
