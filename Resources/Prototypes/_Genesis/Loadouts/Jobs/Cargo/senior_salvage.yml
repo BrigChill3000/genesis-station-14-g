@@ -8,11 +8,3 @@
   id: JumpsuitSeniorSalvage
   equipment:
     jumpsuit: ClothingUniformJumpsuitSeniorSalvage
-
-# Neck
-- type: loadout
-  id: MinerCloak
-  equipment:
-    neck: ClothingNeckCloakSalvagerSupreme # Mne v padlu menyat id((((( xddddd
-
-
