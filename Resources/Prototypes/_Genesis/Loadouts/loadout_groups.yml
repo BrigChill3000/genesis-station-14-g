@@ -532,15 +532,6 @@
 
 # Engineering
 - type: loadoutGroup
-  id: ChiefEngineerBackpack
-  name: loadout-group-backpack
-  loadouts:
-  - ChiefEngineerBackpack
-  - ChiefEngineerSatchel
-  - ChiefEngineerDuffel
-  - ChiefEngineerModSuit
-
-- type: loadoutGroup
   id: EngineeringGloves
   name: loadout-group-gloves
   loadouts:
