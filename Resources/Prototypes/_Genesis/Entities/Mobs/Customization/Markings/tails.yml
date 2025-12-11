@@ -76,19 +76,6 @@
       state: fox_secondary
 
 - type: marking
-  id: TailGecko
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [Reptilian]
-  sprites:
-    - sprite: Genesis/Mobs/Customization/tails32x32.rsi
-      state: gecko_primary
-    - sprite: Genesis/Mobs/Customization/tails32x32.rsi
-      state: gecko_secondary
-    - sprite: Genesis/Mobs/Customization/tails32x32.rsi
-      state: gecko_tertiary
-
-- type: marking
   id: TailKitsune
   bodyPart: Tail
   markingCategory: Tail
