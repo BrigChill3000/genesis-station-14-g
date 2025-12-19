@@ -1,5 +1,5 @@
 - type: entity
-  parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ]
+  parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetModsuitBase
   abstract: true
   name: base MOD helmet
@@ -234,7 +234,7 @@
     unequipSound: /Audio/Genesis/Items/ballout.ogg
 
 - type: entity
-  parent: [ ClothingHeadHardsuitBase, ClothingHeadSuitWithLightBase ]
+  parent: ClothingHeadHardsuitWithLightBase
   id: ClothingHeadHelmetModsuitCE
   name: chief engineer modsuit helmet
   description: A helmet for a MODsuit. An atmospheric-resistant suit by Nakamura Engineering, offering extreme heat resistance compared to the engineer suit.
