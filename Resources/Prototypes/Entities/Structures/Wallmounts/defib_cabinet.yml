@@ -45,10 +45,6 @@
       visible: true
     - state: closed
       map: ["enum.OpenableVisuals.Layer"]
-    # Corvax-DefibrillatorCabinetResprite-start
-    - state: light
-      shader: unshaded
-    # Corvax-DefibrillatorCabinetResprite-end
   - type: ItemSlots
     slots:
       ItemCabinet:
